@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I´m Samuel Reyna ##
+
+ | Software engineer | Fullstack development |
+ 
+graduated from UTD in Durango, México.
+
+I really enjoy programming and making solutions
+
+![Ubicación](https://img.shields.io/badge/Location-México-006847?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+## Languages:
+
+- English
+- Spanish
 
 <!--
-**Samuelrg03/Samuelrg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Samuelrg03/Samuelrg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.   f
 
 Here are some ideas to get you started:
 
@@ -14,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ## Technologies:
 
 
 <div align="center">
@@ -32,3 +46,22 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
+
+## 📫 Contact me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-samuel.reyna434@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.reyna434@gmail.com) 
+
+
+</div>
+
+## Links 
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelreyna03/)
+[![Portafolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://samuelrgportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/Samuelrg03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuelrg03)
+
+ </div>
