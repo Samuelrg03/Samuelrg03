@@ -4,7 +4,12 @@
  
 graduated from UTD in Durango, México.
 
-I really enjoy programming and making solutions
+I really enjoy programming and making solutions, I have experience in fullstack development.
+I developed in Javascript using some frameworks based in react line NextJs, VueJS.
+Constantly learning to keep up to date with new technologies. 
+
+--JAVA Enthusiast--
+
 
 ![Ubicación](https://img.shields.io/badge/Location-México-006847?style=for-the-badge&logo=googlemaps&logoColor=white)
 
