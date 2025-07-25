@@ -10,6 +10,10 @@ Constantly learning to keep up to date with new technologies.
 
 --JAVA Enthusiast--
 
+Learning Data Analyst
+
+Learning Cybersecurity
+
 
 ![Ubicación](https://img.shields.io/badge/Location-México-006847?style=for-the-badge&logo=googlemaps&logoColor=white)
 
