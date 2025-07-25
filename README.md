@@ -8,6 +8,7 @@ I really enjoy programming and making solutions, I have experience in fullstack 
 I developed in Javascript using some frameworks based in react line NextJs, VueJS.
 Constantly learning to keep up to date with new technologies. 
 
+I worked in backend development with .NET Core and ExpressJS, I've used JWT for security. 
 --JAVA Enthusiast--
 
 Learning Data Analyst
