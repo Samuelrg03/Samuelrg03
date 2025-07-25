@@ -9,6 +9,8 @@ I developed in Javascript using some frameworks based in react line NextJs, VueJ
 Constantly learning to keep up to date with new technologies. 
 
 I worked in backend development with .NET Core and ExpressJS, I've used JWT for security. 
+
+Learning Java
 --JAVA Enthusiast--
 
 Learning Data Analyst
